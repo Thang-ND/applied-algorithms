@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625278760 source:c:\users\winner\desktop\20202\ttud_th\test\test.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1628348977 source:c:\users\winner\desktop\20202\ttud_th\test\test.cpp
+	<bits/stdc++.h>
+

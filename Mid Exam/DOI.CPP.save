@@ -1,0 +1,18 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define NMAX 100005
+int n;
+int h[NMAX];
+long long hill;
+long long valley;
+
+int main() {
+    freopen("testcase.inp", "r", stdin);
+    ios_base::sync_with_stdio(false);
+    cin.tie(0);
+    cin >> n;
+    for (int i=1; i<=n; i++) cin >> h[i];
+    
+    
+}
+ 
